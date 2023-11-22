@@ -5,7 +5,7 @@
 
 ### :man_technologist:  About me:
 
-🚀 Front - end Developer | TypeScript Enthusiast | React & React Native Fan
+🚀 Front - end Developer | React & React Native Fan
 
 🌐 Passionate about building scalable and performant web applications. 
 
