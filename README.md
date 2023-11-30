@@ -5,7 +5,7 @@
 
 ### :man_technologist:  About me:
 
-🚀 Full - Stack Developer | React, React Native &  Node.js
+🚀 Full - Stack Developer (React | React Native | Node.js)
 
 🌐 Passionate about building scalable and performant web applications. 
 
