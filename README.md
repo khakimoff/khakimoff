@@ -5,7 +5,7 @@
 
 ### :man_technologist:  About me:
 
-🚀 I'm a Full-Stack Developer with expertise in React, React Native, and Node.js. 
+🚀 I'm a Full-Stack Developer with expertise in React, React Native and Node.js. 
 
 🌐 Passionate about building scalable and performant web applications. 
 
