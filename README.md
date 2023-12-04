@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist:  About me:
+###  About me:
 
 🚀 I'm a Full-Stack Developer with expertise in React, React Native and Node.js. 
 
