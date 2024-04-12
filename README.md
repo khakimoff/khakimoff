@@ -13,7 +13,6 @@
 
 📫 Let's connect! Open to collaboration and always up for a coding challenge.
 
-🔗 My Site: https://sabr.pro/developer.html | 💼 LinkedIn: https://www.linkedin.com/in/renat-khakimov-24a1bb293/
 
 ---
 
